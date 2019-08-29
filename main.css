@@ -3,6 +3,7 @@ h1 {
   font-weight: 600;
   text-align: center;
   padding-top: 100px;
+  font-family: "Times New Roman";
 }
 h2 {
   font-size: 30px;
@@ -126,9 +127,7 @@ a {
   padding-bottom: 30px;
   float: left;
   padding-left: 260px;
-  
 }
-
 .leftcol {
     width:150px;
     height:auto;
