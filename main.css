@@ -142,3 +142,9 @@ a {
   color: white;
   padding-top: 20px;
  }
+p.contentSmall {
+  padding-top: 20px;
+}
+h1.aboutMe {
+  padding-bottom: 20px;
+}
