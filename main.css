@@ -2,7 +2,7 @@ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 50px;
   font-family: "Times New Roman";
 }
 h2 {
@@ -138,6 +138,7 @@ a {
  .nameAndVocation {
   background-color: #0F0400;
  }
- .vocation {
+ #vocation {
   color: white;
+  padding-top: 20px;
  }
