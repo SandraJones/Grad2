@@ -148,3 +148,11 @@ p.contentSmall {
 h1.aboutMe {
   padding-bottom: 20px;
 }
+#vol {
+  padding-top: 20px;
+  height: 400px;
+  width: 500px;
+}
+h3 {
+  padding-top: 20px;
+}
