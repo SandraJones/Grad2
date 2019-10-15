@@ -3,7 +3,8 @@ h1 {
   font-weight: 600;
   text-align: center;
   padding-top: 50px;
-  font-family: "Times New Roman";
+  padding-bottom: 20px;
+  font-family: 'Dancing Script', cursive;
 }
 h2 {
   font-size: 30px;
@@ -16,7 +17,7 @@ h3 {
   text-align: center;
 }
 p {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 200;
   text-align: center;
   color: rgba(255, 255, 255, 255);
@@ -24,12 +25,15 @@ p {
 
 body {
   position:  relative;
-  width: 100%;
+  width: 100%; 
   background-position: center;
   background-image: url(GrayBlackGeometric.jpg);
   text-align: center;
   color: white;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Cabin', Open Sans;
+/*
+  background: #adb0b3;
+*/
 }
 header {
   position:  relative;
@@ -42,6 +46,8 @@ header {
 }
 li {
   color: white;
+  text-align: center;
+  width: 100%;
 }
 
 article {
@@ -140,7 +146,7 @@ a {
  }
  #vocation {
   color: white;
-  padding-top: 20px;
+  padding-top: 30px;
  }
 p.contentSmall {
   padding-top: 20px;
